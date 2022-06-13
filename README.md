@@ -1,0 +1,2 @@
+# flutter-dinamil-ortalama-hesapla
+ 
